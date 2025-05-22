@@ -4,7 +4,11 @@
 ## Tools
 
 * https://teachablemachine.withgoogle.com
-* 
+* ChatGPT
+
+## No code AI use cases with chatGPT
+
+* link
 
 ## Data
 
