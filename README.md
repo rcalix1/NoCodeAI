@@ -115,6 +115,8 @@ No-Code AI democratizes machine learning by putting it in the hands of **teacher
 - **Limitations**:
   - Not deep learning or neural net focused
   - Interface feels dated but is extremely feature-rich
+- **Data**
+  - Data: https://github.com/rcalix1/DeepLearningAlgorithms/tree/main/SecondEdition/chapter4_Reg_MLP_DL
 
 🧰 *Why it matters for No-Code AI*: Weka is a **mature**, **well-documented**, and **self-contained** tool that requires **zero programming**, and supports hundreds of ML algorithms out-of-the-box.
 
