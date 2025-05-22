@@ -98,6 +98,30 @@ No-Code AI democratizes machine learning by putting it in the hands of **teacher
 
 ---
 
+### 🧪 [Weka](https://www.cs.waikato.ac.nz/ml/weka/)
+
+> A classic and robust open-source tool for machine learning on structured data — used in universities and industry for decades.
+
+- **Type**: Desktop GUI (Java-based)
+- **Focus**: Traditional machine learning on tabular data (classification, regression, clustering)
+- **Features**:
+  - Upload CSV or ARFF datasets
+  - Train and evaluate models like decision trees, SVMs, k-NN, logistic regression, etc.
+  - Full GUI for preprocessing, feature selection, cross-validation, and performance visualization
+  - Includes scripting options and experiment runners for reproducibility
+- **Best For**:
+  - Researchers and students learning ML theory
+  - Practitioners doing fast experimentation with real-world datasets
+- **Limitations**:
+  - Not deep learning or neural net focused
+  - Interface feels dated but is extremely feature-rich
+
+🧰 *Why it matters for No-Code AI*: Weka is a **mature**, **well-documented**, and **self-contained** tool that requires **zero programming**, and supports hundreds of ML algorithms out-of-the-box.
+
+📦 Try it with any spreadsheet-style dataset (CSV) and explore classifiers, attribute selection, confusion matrices, ROC curves, and more — all through a GUI.
+
+---
+
 ## 🚀 Why Use No-Code AI?
 
 | Benefit                 | Description |
