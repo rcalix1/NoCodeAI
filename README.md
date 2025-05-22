@@ -124,6 +124,75 @@ No-Code AI democratizes machine learning by putting it in the hands of **teacher
 
 ---
 
+### 🤖 ChatGPT as Your No-Code AI Engineer
+
+> ChatGPT (from OpenAI) can help you build and understand machine learning systems — without coding — by *talking* your way through solutions.
+
+---
+
+#### ✅ What ChatGPT Can Help You Do
+
+| Task | Example |
+|------|---------|
+| 📈 Data Modeling | “Build me a decision tree to predict loan defaults based on income, age, and credit score.” |
+| 🧹 Data Cleaning | “How can I clean missing values from a CSV?” |
+| 🧪 Tool Discovery | “What no-code tools can classify images?” |
+| 🧾 Report Writing | “Summarize this model’s performance for a non-technical manager.” |
+| 🧠 Education | “Explain how logistic regression works with a diagram.” |
+| 🛠️ Pseudocode Generation | “Outline an AI pipeline from raw CSV to model deployment.” |
+
+---
+
+#### 💬 Sample Prompts
+
+Try saying things like:
+- “Create a machine learning pipeline to predict customer churn using a spreadsheet.”
+- “Give me a feature importance report like SHAP, but in plain English.”
+- “Explain the difference between classification and regression with visual analogies.”
+- “Compare Roboflow and Teachable Machine for a classroom project.”
+
+---
+
+#### 🧠 Why ChatGPT is Powerful for No-Code AI
+
+- Works as your **AI co-pilot** for tool discovery, explanations, and design decisions.
+- Helps you **translate ideas into code**, **code into concepts**, and **concepts into action**.
+- Can write full Jupyter notebooks, explain Python/PyTorch/TensorFlow code, or show how to *do the same things without code*.
+
+---
+
+### 🧰 Use Case in This Repo
+
+Check the `chatgpt-assist-scenarios/` folder for example conversations:
+- `loan-prediction-chat.md`: Prompting ChatGPT to design a classification model
+- `explain-svm.md`: Teaching support vector machines to a non-coder
+- `feature-ranking-help.md`: Explaining which variables matter, and why
+
+---
+
+🧠 *TL;DR:* If you can describe your problem clearly, ChatGPT can help you build or understand the solution — code optional.
+
+###############
+
+### Prompt
+
+I have a CSV file with structured data (e.g., customer info, product sales, loan applications, etc.). I want to build a machine learning model to predict one of the columns — but I don’t want to write any code.
+
+Please walk me through:
+1. How to prepare the data (cleaning, encoding, splitting)
+2. Which no-code tools I can use for this (that actually work)
+3. What kind of model is best (classification vs regression)
+4. How to interpret the results (feature importance, accuracy, etc.)
+5. How to explain it to a non-technical audience
+
+Keep it step-by-step, and assume I want to do this completely without programming.
+
+
+
+##############
+
+---
+
 ## 🚀 Why Use No-Code AI?
 
 | Benefit                 | Description |
