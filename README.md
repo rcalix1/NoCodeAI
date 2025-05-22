@@ -5,6 +5,8 @@
 
 * https://teachablemachine.withgoogle.com
 * ChatGPT
+* Replicate.com
+* 
 
 ## No code AI use cases with chatGPT
 
