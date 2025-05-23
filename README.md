@@ -99,6 +99,7 @@ No-Code AI democratizes machine learning by putting it in the hands of **teacher
 > A classic and robust open-source tool for machine learning on structured data — used in universities and industry for decades.
 
 - **Type**: Desktop GUI (Java-based)
+- **Download**: https://waikato.github.io/weka-wiki/downloading_weka/
 - **Focus**: Traditional machine learning on tabular data (classification, regression, clustering)
 - **Features**:
   - Upload CSV or ARFF datasets
