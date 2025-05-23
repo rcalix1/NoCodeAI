@@ -214,14 +214,19 @@ We plan to expand this repository with additional No-Code AI tools like:
 
 Maintained by [Ricardo Calix](https://www.rcalix.com), author and AI consultant. This repository supports interactive workshops and masterclasses on **AI without code**. Contact: rcalix@rcalix.com
 
-## Books
+## 📘 Featured Book 
 
-<a href="https://amzn.to/3QmKKwC">
-  <img src="https://m.media-amazon.com/images/I/71F2QLFMCFL._SL1233_.jpg" alt="Books" width="300" />
+<a href="https://amzn.to/3QmKKwC" target="_blank">
+  <img src="https://m.media-amazon.com/images/I/71F2QLFMCFL._SL1233_.jpg" alt="Books" width="300" style="border-radius:10px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
 </a>
 
-## Disclaimer
+➡️ **[Grab your copy on Amazon »](https://amzn.to/3QmKKwC)**
 
-- This repository contains AI-assisted content.
-- This post includes [Amazon affiliate links](https://amzn.to/3QmKKwC), which may earn commissions at no additional cost to you.
+---
+
+## ⚠️ Disclaimer
+
+- 🤖 Portions of this content were generated or assisted by AI.
+- 🔗 This post includes [Amazon affiliate links](https://amzn.to/3QmKKwC). Purchases made through them may earn a small commission at no extra cost to you.
+
 
