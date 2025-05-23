@@ -214,10 +214,10 @@ We plan to expand this repository with additional No-Code AI tools like:
 
 Maintained by [Ricardo Calix](https://www.rcalix.com), author and AI consultant. This repository supports interactive workshops and masterclasses on **AI without code**. Contact: rcalix@rcalix.com
 
-## Book
+## Books
 
 <a href="https://amzn.to/3QmKKwC">
-  <img src="https://m.media-amazon.com/images/I/71F2QLFMCFL._SL1233_.jpg" alt="No Code AI Book" width="300" />
+  <img src="https://m.media-amazon.com/images/I/71F2QLFMCFL._SL1233_.jpg" alt="Books" width="300" />
 </a>
 
 ## Disclaimer
